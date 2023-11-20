@@ -1,0 +1,20 @@
+As a novice in working with Java, particularly as an object-oriented language, this assignment presented a unique learning opportunity for me. 
+My prior experience with Java, dating back to high school, was quite fundamental. Hence, delving into this assignment was both a refresher and an exploration into new territories.
+
+Here are some questions that emerged as I engaged with the Java material:
+
+1. Java seems to prefer a deeply nested directory structure. Is there a specific reason or necessity behind this approach? 
+
+2. How does this structure impact the organization and execution of Java programs?
+
+We learned that interfaces in Java resemble classes but cannot have constructors. 
+3. What is the rationale behind this design choice? 
+
+ During the assignment, I noticed that VS Code automatically handled package imports in Java. 
+This piqued my curiosity about the differences between package management in Java and Python. 
+4. How do these differences affect the development process and the capabilities of each language?
+
+A quick google search revealed that Java packages are compiled while Python modules are interpreted. 
+5. What impact does this have on the performance, size, and speed of Java programs compared to Python scripts?
+
+6. How does Java's implementation of object-oriented programming principles differ from other OOP languages like C++ or Python? Are there unique advantages or challenges that Java presents in this regard?
